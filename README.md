@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kike20ferrer" target="blank"><img src="https://img.shields.io/twitter/follow/kike20ferrer?logo=twitter&style=for-the-badge" alt="kike20ferrer" /></a> </p>
 
-- 🔭 I’m currently working **Possible Incorporated S.L.**
+- 🔭 I’m currently working at **Possible Incorporated S.L.**
 
 - 📫 How to reach me **kikeferreragius1997@gmail.com**
 
