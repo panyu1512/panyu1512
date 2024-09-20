@@ -8,15 +8,15 @@ Responsible for building sustainable, robust, and scalable data pipelines to mee
 
 Skills:
 
-• Programming Languages: Python, JavaScript, TypeScript, C#
-• Frameworks: Django, Flask, React, Angular, Unity
-• Data Engineering: PySpark, Pandas, Numpy
-• Database Management: PostgreSQL, MySQL, MongoDB
-• Cloud Services: AWS (S3), GCP (Cloud Storage), Azure (Blob Storage)
-• Data Engineering Tools: Apache Airflow, Snowflake, dbt
-• Testing: pytest, Unit Testing
-• DevOps: Git, Jenkins, TeamCity, Docker, Kubernetes, Vault
-• Machine Learning: TensorFlow, Scikit-learn
+- Programming Languages: Python, JavaScript, TypeScript, C#
+- Frameworks: Django, Flask, React, Angular, Unity
+- Data Engineering: PySpark, Pandas, Numpy
+- Database Management: PostgreSQL, MySQL, MongoDB
+- Cloud Services: AWS (S3), GCP (Cloud Storage), Azure (Blob Storage)
+- Data Engineering Tools: Apache Airflow, Snowflake, dbt
+- Testing: pytest, Unit Testing
+- DevOps: Git, Jenkins, TeamCity, Docker, Kubernetes, Vault
+- Machine Learning: TensorFlow, Scikit-learn
 
 ### Socials
 
