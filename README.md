@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015... but learning from every one!<br>📚 I'm currently learning advanced algorithms and data structures.<br>🎯 Goals: Improve my code quality and contribute to open-source projects.<br>🎲 Fun fact: I can solve a Rubik's Cube in under 2 minutes.</p>
+<p align="left">✨ Creating bugs since 2021... but learning from every one!<br>📚 I'm currently learning advanced algorithms and data structures.<br>🎯 Goals: Improve my code quality and contribute to open-source projects.<br>🎲 Fun fact: I can solve a Rubik's Cube in under 2 minutes.</p>
 
 ###
 
